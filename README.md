@@ -13,7 +13,7 @@
 We are the Glasgow Defcon Chapter, and you are very welcome. 
 
 
-<!-- We meet on the **first Thursday** of every month at the Glasgow Caledonian University (GCU) Student's Association building. The following map shows which building that is in relation to Cowcaddens Road:
+<!-- We meet on the **first Tuesday** of every month at The Raven Glasgow. The following map (to be included)
 
 <a href="https://raw.githubusercontent.com/dc44141/dc44141.github.io/master/images/map-to-dc44141.png"><img src="images/map-to-dc44141.png" width="350px" alt="Map highlighting Student's Association Building on GCU campus"></a>
 
@@ -27,9 +27,9 @@ Details for the next event:
 
 | Key       | Value           |
 | ------------- |:-------------:|
-| Date:      | Thursday 1st December 2022 |
-| Location:      | GCU Students Association    |
-| Time: | 6:30pm (lobby open), talks (7pm)     |
+| Date:      | Thursday 6th July 2023 |
+| Location:      | The Raven Glasgow    |
+| Time: | 6:30pm (upstairs)     |
 
 # This Month's Talk:
 **If you would like to speak as well then you absolutely can. Ask [@dc44141](https://twitter.com/dc44141). We also accept unannounced talks where you just get up without fanfare and have had a few do it that way in the heat of the moment.**
